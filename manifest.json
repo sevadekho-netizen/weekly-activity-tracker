@@ -1,0 +1,16 @@
+{
+  "name": "Weekly Activity Tracker",
+  "short_name": "Weekly Tracker",
+  "description": "Plan your 3 daily tasks, log insights and outcomes, and review your week.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDECE1",
+  "theme_color": "#F2703F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
